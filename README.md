@@ -13,3 +13,7 @@ https://github.com/x6ud/human-anatomy-for-artist-search-helper
 # x6ud.github.io/female-anatomy-for-artist-search-helper
 
 https://github.com/x6ud/female-anatomy-for-artist-search-helper
+
+# x6ud.github.io/figure-doll-editor
+
+https://github.com/x6ud/figure-doll-editor
